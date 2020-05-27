@@ -8,5 +8,5 @@ We do not need any preprocessing, cleaning or aggregation. I explained it clearl
 The series are provided in json files where the data and information stored in an XML format. The data can be loaded using a json reader software or C/python/java/... library.
 Each entry in the json files contain the following information:
 <br/>
-<em> _signal1 <\em> contains the final time series.
-<em> _signalT <\em> contains the trend, <em> _signalT <\em> contains the trend, <em> _signalS <\em> contains the seasonal component and <em> _signalI <\em> contains the irregular component.
+*_signal1* contains the final time series.
+*_signalT* contains the trend, *_signalT* contains the trend, *_signalS* contains the seasonal component and *_signalI* contains the irregular component.
