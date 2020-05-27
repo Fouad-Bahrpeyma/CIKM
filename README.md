@@ -3,7 +3,7 @@ Data for CIKM:
 The Data including the series as well as their characteristics can be accessed via the following link:
 https://drive.google.com/drive/folders/12DfKOkdePtltCN5761BKX6oYRwGc83GM?usp=sharing
 
-The data, in current form, do not any preprocessing, cleaning or aggregation.
+The data, in current form, do not need any preprocessing, cleaning or aggregation.
 <br/>
 The time series are provided in json files where the data and information stored in an XML format. The data can be loaded using a json reader software or C/python/java/... library.
 Each entry in the json files contain the following information:
